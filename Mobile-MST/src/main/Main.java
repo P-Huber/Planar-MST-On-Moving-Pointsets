@@ -38,7 +38,7 @@ public class Main {
 		                    			 int pointsetSize = 30;
 		                    			 
 		                    			 //Should statistical data be saved to a file?
-		                    			 boolean printToFile = true;
+		                    			 boolean printToFile = false;
 		                    			 
 		      // path at which data is printed if "printToFile" is set to true
 		      String path = "C:\\Users\\Philipp\\Desktop\\Studium\\Masterarbeit\\Data\\test_n=20.csv";
