@@ -32,7 +32,7 @@ public class Main {
 		                                 boolean watchBaB = false;
 		                                 
 		                                 //How many samples should be examined?
-		                    			 int sampleSize = 10000;
+		                    			 int sampleSize = 100000;
 		                    			 
 		                    			 //What should the pointset size n be sat as?
 		                    			 int pointsetSize = 30;
@@ -41,7 +41,7 @@ public class Main {
 		                    			 boolean printToFile = false;
 		                    			 
 		      // path at which data is printed if "printToFile" is set to true
-		      String path = "C:\\Users\\Philipp\\Desktop\\Studium\\Masterarbeit\\Data\\test_n=20.csv";
+		      String path = "C:\\Users\\Philipp\\Desktop\\Studium\\Masterarbeit\\Data\\samplesize_100000_n=30.csv";
 		//////////////////////////////////////////////////////////////////////////////////////////////////
 		//////////////////////////////////////////////////////////////////////////////////////////////////
 		
